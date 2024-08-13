@@ -23,7 +23,7 @@
 （2）下载ChromeDriver时一定要对应好自己的浏览器版本，下载链接：https://registry.npmmirror.com/binary.html?path=chromedriver/ 
 （3）将下载好的chromedriver保存至上述目录中：
 
-③ 文件夹还需要放入mo.xls。示例表格也已经上传，请不要修改文件名字
+③ 文件夹还需要放入mo.xls。示例表格也已经上传，请不要修改文件名字 如果报错“No module xlrd” 请打开CMD 输入 pip install xlrd 然后重启电脑即可
 
 3、软件有许多鸡肋按钮，今后的会进行优化
 
